@@ -1,3 +1,3 @@
 # CS2 Custom Spectator Hud
 
-This an in-development spectator hud
+This is an in-development custom spectator hud
